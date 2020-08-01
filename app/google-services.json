@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593732595537",
+    "firebase_url": "https://chitthi-3617c.firebaseio.com",
+    "project_id": "chitthi-3617c",
+    "storage_bucket": "chitthi-3617c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593732595537:android:5a0d69ad97c09e5050ed70",
+        "android_client_info": {
+          "package_name": "com.soumyajit.chitthiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593732595537-g205377ut4eoknio10jhn8i08n1cu8ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCl_plh-Xu45ydOye6LO-4hWsAJznW5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593732595537-g205377ut4eoknio10jhn8i08n1cu8ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
